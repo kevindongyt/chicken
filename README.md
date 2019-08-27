@@ -1,2 +1,3 @@
-# chicken
-Extension:Chicken is a MediaWiki extension that well... emphasizes chickens.
+# chicken.js
+
+Chicken.js highlights the words "chicken" and "chickens". Nothing else.
